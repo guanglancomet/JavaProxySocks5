@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProxySocks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProxySocks_jar</output-path>
+    <root id="archive" name="ProxySocks.jar">
+      <element id="module-output" name="ProxySocks" />
+    </root>
+  </artifact>
+</component>
